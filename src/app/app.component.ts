@@ -73,18 +73,14 @@ export class ComidaComponentComponent {
     name : 'Carnitas',
     descripcion:"En la búsqueda de sabores, sazón y riqueza, hay quienes agregan al perol de las carnitas ingredientes exóticos como frutas, chiles, azúcar, leche o refrescos. En fin, cada uno con su cada cual, para hacer la diferencia, el detalle de distinción, el gesto poderoso, aquello que dé a las carnitas un toque personal.Aunque a esto pueda parecer una aberración para los puristas de “El Estilo Michoacán”." 
   };
+
   Comida13:Comida ={
     id : 13,
-    name : 'Pescado a la talla',
-    descripcion:"Y no hay mejor emblema de esta comida que el Pescado a la talla, el cual es abierto en mariposa y es cocinado a las brasas, y se unta una salsa roja preparada con chiles y especias." 
-  };
-  Comida14:Comida ={
-    id : 14,
     name : 'Pescado a la Veracruzana',
     descripcion:"En la entidad, anclada a las orillas del Golfo de México donde Hernán Cortés fundó la Real Villa Rica de la Santa Vera Cruz en 1519, comenzó el contacto directo con los españoles y dio por resultado una zona típicamente mercada por el mestizaje y el encuentro, de ahí nace este delicioso guiso muy parecido al bacalao preparado en algunas regiones de España." 
   };
-  Comida15:Comida ={
-    id : 15,
+  Comida14:Comida ={
+    id : 14,
     name : 'Tlayudas',
     descripcion:"Son exclusivas de Oaxaca y uno de sus platos más populares. Tlayuda es en realidad el nombre que se le da a la gran tortilla de maíz; las Tlayudas se pueden preparar sin carne (sencillas), o con cecina, res, chorizo​​, o a veces con otros ingredientes más extravagantes. Los ingredientes básicos pueden variar, pero en general un Tlayuda es preparada con lechuga, tomate, frijoles refritos, aguacate, queso (o quesillo) y luego guacamole y salsa de chile se añaden al gusto." 
   };
